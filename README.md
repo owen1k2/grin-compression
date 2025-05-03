@@ -1,13 +1,18 @@
 # Project: Grin Compression
 
-Authors: (_TODO: fill in names here!_)
+Authors: Owen Block
 
 ## Resources
 
-*   (_TODO: fill in resources here!_)
-*   ...
-*   ...
+*   Visual Studio Code
+*   Java 17.0.14
+*   Program Instructions
+*   Starter Code from Professor Osera's GitHub
+*   Java API
+*   Spoke with Finn and Colton on a high level about the project.
 
 ## Revision Log
 
-*   (_TODO: fill in your changes to your project here!_)
+*   Decode is updated and functional
+*   style check
+*   Encode is almost fully working but I had to go to sleep for a track meet will do it on redo if necessary.
